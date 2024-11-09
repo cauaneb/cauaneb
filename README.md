@@ -11,7 +11,7 @@ Let me introduce myself, my name is Cauan, I've been programming for about 1 yea
 </div>
 
 ## Some tools I use ⚒️
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,mysql,postgres,nextjs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,mysql,postgres,nextjs,react,gcp,docker)](https://skillicons.dev)
 
 ## What I'm learning 👨🏻‍🏫
 [![My Skills](https://skillicons.dev/icons?i=ts,jest,py,django)](https://skillicons.dev)
