@@ -26,7 +26,7 @@ Let me introduce myself, my name is Cauan, I've been programming for about 1 yea
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </a>
 
-<a href="cauaneduardoborges@gmail.com" target="_blank">
+<a href="mailto:cauaneduardoborges@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </a>
 
