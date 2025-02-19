@@ -1,6 +1,6 @@
 ## About Me 🙋🏻‍♂️
 
-Let me introduce myself, my name is Cauan, I've been programming for about 1 year, I have an affinity with backend, but I'm always willing to learn new things.
+Let me introduce myself, my name is Cauan, I've been programming for about 6 months, I have an affinity with backend, but I'm always willing to learn new things.
 
 ## My performance 💪
 
@@ -11,14 +11,14 @@ Let me introduce myself, my name is Cauan, I've been programming for about 1 yea
 </div>
 
 ## Some tools I use ⚒️
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,mysql,postgres,nextjs,react,gcp,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb)](https://skillicons.dev)
 
 ## What I'm learning 👨🏻‍🏫
-[![My Skills](https://skillicons.dev/icons?i=ts,jest,py,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,jest,mysql,postgres,nextjs,react,gcp,docker)](https://skillicons.dev)
 
 ## My social networks 🌐
 
-<a href="https://www.linkedin.com/in/cauan-borges-8a8451328/" target="_blank">
+<a href="https://www.linkedin.com/in/cauan-eduardo-borges-silva-8a8451328/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </a>
 
