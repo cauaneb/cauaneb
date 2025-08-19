@@ -4,10 +4,10 @@ Let me introduce myself, my name is Cauan, I've been programming for about 6 mon
 
 ## My performance 💪
 
-<div style="display:flex;justify-content:center;">
-  <a href="https://github.com/cauaneb" target="_blank">
-  <img style="margin:2px;" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cauaneb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cauaneb&layout=compact&langs_count=7&theme=github_dark"/>
+<a href="https://github.com/cauaneb" target="_blank">
+    <img style="margin:2px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=cauaneb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaneb&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ## Some tools I use ⚒️
