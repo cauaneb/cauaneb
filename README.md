@@ -1,6 +1,6 @@
 ## About Me 🙋🏻‍♂️
 
-Let me introduce myself, my name is Cauan, I've been programming for about 6 months, I have an affinity with backend, but I'm always willing to learn new things.
+Hi! I'm Cauan, a passionate software developer with around 1 year and a half of programming experience. I have a strong interest in backend development, where I enjoy building efficient and scalable solutions. I'm always eager to learn new technologies, improve my skills, and contribute to meaningful projects that make a real impact.
 
 ## My performance 💪
 
@@ -11,10 +11,10 @@ Let me introduce myself, my name is Cauan, I've been programming for about 6 mon
 </div>
 
 ## Some tools I use ⚒️
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,cs,dotnet,gcp,docker,postgres,git)](https://skillicons.dev)
 
 ## What I'm learning 👨🏻‍🏫
-[![My Skills](https://skillicons.dev/icons?i=ts,jest,mysql,postgres,nextjs,react,gcp,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,jest,mysql,nextjs)](https://skillicons.dev)
 
 ## My social networks 🌐
 
